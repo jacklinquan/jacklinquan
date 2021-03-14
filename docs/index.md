@@ -1,3 +1,3 @@
-# Welcome to My Blog
+# jacklinquan
 
-This page is under construction.
+Website place holder.
