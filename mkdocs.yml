@@ -37,6 +37,9 @@ theme:
 # Plugins
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+        'index.md': 'https://quanlin.readthedocs.io/en/latest/'
   - awesome-pages
   - mermaid2:
       version: 8.6.4
